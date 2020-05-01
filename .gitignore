@@ -10,3 +10,4 @@ venv
 /static
 /.vscode
 *.code-workspace
+local_settings.py
