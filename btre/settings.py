@@ -143,11 +143,7 @@ MESSAGE_TAGS = {
 }
 
 # Email config
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'steve.spider@gmail.com'
-EMAIL_HOST_PASSWORD = 'blaleluegptgtcvs'
-EMAIL_USE_TLS = True
+# - these settings are in the local_setting.py file
 
 try:
     from .local_settings import *
